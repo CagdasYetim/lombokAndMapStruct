@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\demo\AppUserDto.class
+com\example\demo\AppUser.class
+com\example\demo\AppUserMapper.class
+com\example\demo\AppUserRepository.class
+com\example\demo\AppUserController.class
+com\example\demo\AppUserMapperImpl.class
